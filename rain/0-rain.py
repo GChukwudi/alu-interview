@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """create an algorithm for calculating the rain"""
 
+
 def rain(walls):
     """
     Calculate the total amount of rainwater retained.
